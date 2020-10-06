@@ -55,7 +55,7 @@
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="50" width="50" />
 </a>
 
-<!-- dancy gifs 
+<!--
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
