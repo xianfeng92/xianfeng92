@@ -64,11 +64,11 @@
 <a href="https://xianfeng92.github.io" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
-<a href="https://github.com/xianfeng92" target="blank">
+<!-- <a href="https://github.com/xianfeng92" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 <a href="https://gitlab.com/xianfeng92" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
-</a>
+</a> -->
 </p>
 </div>
