@@ -29,6 +29,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
   <br />
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="5%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/androidstudio.svg"></code>
     
 
@@ -40,7 +42,6 @@
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code> -->
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code> -->
 <!--   <br /> -->
-<!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> -->
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> -->
 </p>
 
