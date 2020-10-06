@@ -32,6 +32,7 @@
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="5%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/androidstudio.svg"></code>
+  <code><img width="5%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minds.svg"></code>
     
 
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code> -->
