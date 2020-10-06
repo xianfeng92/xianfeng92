@@ -17,7 +17,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-      <br />
+
+  <br />
   <code><img width="10%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/androidstudio.svg"></code>
     
 
