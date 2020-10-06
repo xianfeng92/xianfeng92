@@ -1,8 +1,11 @@
 <div style="background: green ">
 <!-- top left -->
 <a href="#" click="alert()">
-    <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/>        
+   <img src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="60" height="60"/>  
 </a>
+    
+    
     
 ### Hi there，I'm XForg
 
