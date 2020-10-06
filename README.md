@@ -66,18 +66,4 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
 -->
-
-
-<!-- websites and link -->
-<p align="center">
-<a href="https://xianfeng92.github.io" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
-</a>
-<a href="https://github.com/xianfeng92" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://gitlab.com/xianfeng92" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-</p>
 </div>
