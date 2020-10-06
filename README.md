@@ -4,7 +4,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/> 
 </a>
     
-### Hi there，I'm XForg 👋
+### Hi there，I'm XForg  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 ### Languages and Tools:
 
