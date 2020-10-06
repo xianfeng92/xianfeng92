@@ -20,14 +20,14 @@
 
 
 <!-- thropy -->
-<a href="https://arshiamidos.github.io">
+<a href="https://xianfeng92.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://arshiamidos.github.io">
+<a align="center" href="https://xianfeng92.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
@@ -86,41 +86,14 @@
 
 <!-- websites and link -->
 <p align="center">
-<a href="https://arshiamidos.github.io" target="blank">
+<a href="https://xianfeng92.github.io" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
 </a>
-<a href="https://medium.com/@arashmidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arshiamidos" height="20" width="20" />
-</a>
-<a href="https://linkedin.com/in/arash-aghajani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://twitter.com/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://twitch.tv/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://www.reddit.com/user/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://github.com/arshiamidos" target="blank">
+<a href="https://github.com/xianfeng92" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
 </a>
-<a href="https://gitlab.com/arshiamidos" target="blank">
+<a href="https://gitlab.com/xianfeng92" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://t.me/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://t.me/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://open.spotify.com/user/27nmzpwwd5wwhxvirwxb7cnk0?si=yDCPfpUPRjiIQRtBJr0LfQ" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://soundcloud.com/arashmidos-arash" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 </p>
 </div>
