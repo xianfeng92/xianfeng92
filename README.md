@@ -8,7 +8,7 @@
 </a>      
 
 
-----------------------------------------------run,Bug,run……---------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------run,Bug,run……-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Hi there，I'm XForg
@@ -39,6 +39,12 @@
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> -->
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> -->
 </p>
+
+### MyBlog
+
+<a href="https://xianfeng92.github.io" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
+</a>
 
 ### Github State <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
