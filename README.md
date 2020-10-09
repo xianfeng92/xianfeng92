@@ -9,24 +9,15 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true"/>
 </p>
 
-<div style="background: green ">
-<!-- top left -->
-<a href="#" click="alert()">
-    <img align="left" src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/>        
-</a>
-<a href="#" click="alert()">
-   <img align="right" src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="60" height="60"/>  
-</a>      
+---------------
 
-
-----------------------------------------------run,Bug,run……-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#### Current Focusing
+### Current Focusing
 
 <a href="https://github.com/xianfeng92/Awsome-Mind">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xianfeng92&repo=Awsome-Mind&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151526" />
 </a>
 
+----------------
 ### Languages and Tools:
 
 <p>  
@@ -35,10 +26,7 @@
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-
-  <br />
-  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="5%" src="https://github.com/simple-icons/simple-icons/blob/master/icons/androidstudio.svg"></code>
   <code><img width="5%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minds.svg"></code>
@@ -55,16 +43,32 @@
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> -->
 </p>
 
+------------
 ### Github State <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 
 [![XForg's github stats](https://github-readme-stats.vercel.app/api?username=xianfeng92&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151526)](https://github.com/anuraghazra/github-readme-stats)
 
+-------------
 
 ### MyBlog
 
 <a href="https://xianfeng92.github.io" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="50" width="50" />
 </a>
+
+------------
+
+<div style="background: green ">
+<!-- top left -->
+<a href="#" click="alert()">
+    <img align="left" src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/>        
+</a>
+<a href="#" click="alert()">
+   <img align="right" src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="60" height="60"/>  
+</a>      
+
+
+----------------------------------------------run,Bug,run……-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 <p align="center">
