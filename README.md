@@ -1,3 +1,14 @@
+
+<p align="center">
+ Hi there，I'm XForg
+</a>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+<p>
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true"/>
+</p>
+
 <div style="background: green ">
 <!-- top left -->
 <a href="#" click="alert()">
@@ -9,15 +20,6 @@
 
 
 ----------------------------------------------run,Bug,run……-------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
- Hi there，I'm XForg
-</a>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p>
-<p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true"/>
-</p>
 
 #### Current Focusing
 
