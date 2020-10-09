@@ -17,7 +17,12 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=xianfeng92&repo=Awsome-Mind&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151526" />
 </a>
 
-----------------
+------------
+### Github State <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+
+[![XForg's github stats](https://github-readme-stats.vercel.app/api?username=xianfeng92&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151526)](https://github.com/anuraghazra/github-readme-stats)
+
+-------------
 ### Languages and Tools:
 
 <p>  
@@ -43,12 +48,7 @@
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code> -->
 </p>
 
-------------
-### Github State <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-
-[![XForg's github stats](https://github-readme-stats.vercel.app/api?username=xianfeng92&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151526)](https://github.com/anuraghazra/github-readme-stats)
-
--------------
+---------------
 
 ### MyBlog
 
