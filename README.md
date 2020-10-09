@@ -9,9 +9,6 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true"/>
 </p>
 
--------------
-
-### Github States
 <!-- thropy -->
 <a align="center" href="https://xianfeng92.github.io">
     <p align="center">
