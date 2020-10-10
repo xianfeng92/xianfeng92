@@ -3,9 +3,21 @@
  Hi there，I'm XForg
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <p>
-<p align="center" href="https://xianfeng92.github.io">
+<!-- <p align="center" href="https://xianfeng92.github.io">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true"/>
-</p>
+</p> -->
+
+<div style="background: green ">
+<!-- top left -->
+<a href="#" click="alert()">
+    <img align="left" src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/>        
+</a>
+<a href="#" click="alert()">
+   <img align="right" src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="60" height="60"/>  
+</a>      
+
+
+----------------------------------------------run,Bug,run……-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- thropy -->
 <a align="center" href="https://xianfeng92.github.io">
@@ -65,18 +77,6 @@
 </a>
 
 ------------
-
-<div style="background: green ">
-<!-- top left -->
-<a href="#" click="alert()">
-    <img align="left" src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/>        
-</a>
-<a href="#" click="alert()">
-   <img align="right" src="https://emojis.slackmojis.com/emojis/images/1471045836/777/bug.gif" width="60" height="60"/>  
-</a>      
-
-
-----------------------------------------------run,Bug,run……-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 <p align="center">
