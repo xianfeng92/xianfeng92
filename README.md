@@ -3,12 +3,6 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xianfeng92&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianfeng92&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-
 ---
 
 ### Languages and Tools
