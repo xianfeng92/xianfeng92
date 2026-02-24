@@ -18,14 +18,6 @@
 
 ---
 
-### My Blog
-
-<a href="https://xianfeng92.github.io" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Blog" height="50" width="50" />
-</a>
-
----
-
 <div align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="60" height="60"/>
   Run, Bug, Run...
